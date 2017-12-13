@@ -1,0 +1,64 @@
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\lastFM.dll.config
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\lastFM.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\lastFM.pdb
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\Newtonsoft.Json.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.Formatting.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.WebRequest.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Helpers.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Http.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Http.WebHost.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Mvc.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Razor.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\Newtonsoft.Json.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.Formatting.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.WebRequest.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Helpers.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Http.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Http.WebHost.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Mvc.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Razor.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\obj\Debug\lastFM.csprojResolveAssemblyReference.cache
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\obj\Debug\lastFM.dll
+C:\Users\Bender B. Rodriguez\Documents\Visual Studio 2013\Projects\Personal Projects\lastFM\lastFM\obj\Debug\lastFM.pdb
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\lastFM.dll.config
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\lastFM.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\lastFM.pdb
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\Microsoft.Web.Infrastructure.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\Newtonsoft.Json.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.Formatting.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.WebRequest.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Helpers.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Http.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Http.WebHost.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Mvc.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Razor.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.Deployment.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.Razor.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\Newtonsoft.Json.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.Formatting.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Net.Http.WebRequest.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Helpers.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Http.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Http.WebHost.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Mvc.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.Razor.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.Deployment.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\bin\System.Web.WebPages.Razor.xml
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\obj\Debug\lastFM.csprojResolveAssemblyReference.cache
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\obj\Debug\lastFM.dll
+D:\Current Programming Projects\Personal Projects\lastFM\lastFM\obj\Debug\lastFM.pdb
